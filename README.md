@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## This is Week 1, Module 1 assignment.  The work performed was to debug given code for web page to make improvements in accessibility and imrove the code overall.  Ensured all links worked and that the structure was correct for enhanced accessibility.
+### This is Week 1, Module 1 assignment.  The work performed was to debug given code for web page to make improvements in accessibility and imrove the code overall.  Ensured all links worked and that the structure was correct for enhanced accessibility.
 
 ## Requirements
 
